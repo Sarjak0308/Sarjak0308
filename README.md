@@ -3,14 +3,8 @@
 Welcome to my vibrant corner of the coding universe! I'm Sarjak Patel, a tech enthusiast currently navigating the exciting world of B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at Karnavati University.
 
 ## 💡 What I Bring to the Table
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,java,python,mysql,markdown&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-Dabbling in the magical realms of code, I've mastered the spells of:
-
-- **Java 🚀**
-- **Python 🐍**
-- **C++ 🔍**
-- **C 🤖**
-- **MySQL 📊**
 
 ## 🎓 Journey Through Education
 
