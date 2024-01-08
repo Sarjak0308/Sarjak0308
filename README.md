@@ -26,6 +26,8 @@ Dive into my coding canvas, where each project is a stroke of creativity:
 
 Feel free to wander through my repositories to discover more enchanting projects and snippets. Got a question or an idea? Don't hesitate to send a magical owl my way!
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarjak0308&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ## 📬 Connect with the Sorcerer
 
 - **LinkedIn:** [Sarjak Patel on LinkedIn](www.linkedin.com/in/sarjakpatel03)
