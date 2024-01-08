@@ -21,12 +21,8 @@ Embarking on a thrilling adventure called B.Tech in CSE AIML at Karnavati Univer
 Dive into my coding canvas, where each project is a stroke of creativity:
 
 1. **Project A: [Link to Project A Repository](https://github.com/Sarjak0308/code-snippet-library)**
-   - *Description:* Unleashing the power of technology to achieve a centralised place for st.
-   - *Technologies:* [List of technologies used]
-
-2. **Project B: [Link to Project B Repository]**
-   - *Description:* Crafting a digital masterpiece to tackle [insert project challenge].
-   - *Technologies:* [List of technologies used]
+   - *Description:* Unleashing the power of technology to achieve a centralised place for students to access basic codes for few laguages.
+   - *Technologies:* Node.js, js, MongoDB.
 
 Feel free to wander through my repositories to discover more enchanting projects and snippets. Got a question or an idea? Don't hesitate to send a magical owl my way!
 
