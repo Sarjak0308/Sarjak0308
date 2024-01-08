@@ -20,8 +20,8 @@ Embarking on a thrilling adventure called B.Tech in CSE AIML at Karnavati Univer
 
 Dive into my coding canvas, where each project is a stroke of creativity:
 
-1. **Project A: [Link to Project A Repository]**
-   - *Description:* Unleashing the power of technology to achieve [insert project goal].
+1. **Project A: [Link to Project A Repository](https://github.com/Sarjak0308/code-snippet-library)**
+   - *Description:* Unleashing the power of technology to achieve a centralised place for st.
    - *Technologies:* [List of technologies used]
 
 2. **Project B: [Link to Project B Repository]**
